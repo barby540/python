@@ -1,0 +1,14 @@
+body {
+    background-color: blue;
+}
+
+#contenedor {
+    display: block;
+    text-align: center;
+    vertical-align: baseline;
+}
+
+#menu {
+    text-align: center;
+    color: cornflowerblue;
+}
